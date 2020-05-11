@@ -14,6 +14,6 @@ def find_min_in_nested_arrays(src)
     end 
     row_count += 1 
   end 
-  print min_value
+  p min_value
 
 end
